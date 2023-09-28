@@ -80,3 +80,5 @@ function draw() {
   }
 }
 
+console.log("testing");
+
